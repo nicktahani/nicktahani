@@ -1,4 +1,4 @@
 ### 👋, I'm Nick. 
 
-I love building web apps...check out some of my projects 👇 or contact me using the link to my website to your 👈.
+I love building web apps. Feel free to contact me at [me@nicktahani.com](mailto:me@nicktahani.com).
 
